@@ -6,8 +6,8 @@ export default [
     link: 'https://github.com/thePalma/aim-trainer',
   },
   {
-    title: 'Developer Portfolio',
-    imgUrl: '',
+    title: 'Dev Portfolio',
+    imgUrl: 'assets/dev-portfolio.png',
     stack: ['React', 'Tailwind CSS', 'Vite'],
     link: '',
   },
