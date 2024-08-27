@@ -24,10 +24,10 @@ export default [
     link: 'https://github.com/thePalma/shortest-path-finder',
   },
   {
-    title: 'Slot Machine',
-    imgUrl: 'assets/slot-machine.png',
+    title: 'Spotify Albums Release Radar',
+    imgUrl: 'assets/spotify_new_album_release_radar.png',
     stack: ['Python'],
-    link: 'https://github.com/thePalma/slot-machine',
+    link: 'https://github.com/thePalma/spotify-new-albums-radar',
   },
   {
     title: 'Port Sniffer',
